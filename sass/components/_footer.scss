@@ -13,22 +13,6 @@
     margin-right: 70px;
 }
 
-.footer-info__logo {
-    font-family: var(--text-font-second);
-    font-style: normal;
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 1.19;
-    letter-spacing: 0.03em;
-    color: var(--main-blue);
-    display: block;
-    margin-bottom: 20px;
-}
-
-.logo__text--right-white {
-    color: #ffffff;
-}
-
 .footer-list__item+.footer-list__item {
     margin-top: 9px;
 }
@@ -108,7 +92,7 @@
     flex-direction: column;
     justify-content: flex-end;
     margin-left: 93px;
-    & label {
+    label {
         margin-bottom: 20px;
         font-family: var(--text-font-main);
         font-style: normal;
